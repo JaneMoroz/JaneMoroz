@@ -18,3 +18,9 @@ I'm Eugenia, a Full Stack Developer and I'm passionate about technology, learnin
 
 ##### 🖌 Design Tools
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" />
+
+<br/>
+<br/>
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=JaneMoroz.visitor-badge&left_color=darkblue&right_color=darkviolet)
+
