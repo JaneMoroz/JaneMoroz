@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-✨ I'm **EUGENIA**, a Full Stack Developer, who is passionate about technology, learning new things and creating truly beautiful and efficient digital products.
+✨ I'm **EUGENIA**, a Web Developer, who is passionate about technology, learning new things and creating truly beautiful and efficient digital products.
+
+🌱 Right now I am building a MERN (MongoDB, Express, React, Node) stack application for the local community with the focus on Web Accessibility and Design Systems.
 
 #### 🚀 Technologies I use:
 <details>
