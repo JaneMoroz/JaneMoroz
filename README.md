@@ -15,7 +15,7 @@
 <summary> 📈 Stats</summary>
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaneMoroz&theme=omni&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaneMoroz&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
