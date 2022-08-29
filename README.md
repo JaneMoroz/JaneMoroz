@@ -46,5 +46,7 @@
 <br/>
 <br/>
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=JaneMoroz.visitor-badge&left_color=darkblue&right_color=darkviolet)
+<a href="https://codepen.io/janemoroz" aria-label="codepan" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black" alt="codepan" /></a>
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=JaneMoroz.visitor-badge&left_color=darkgreen&right_color=grey)
 
