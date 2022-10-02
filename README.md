@@ -44,6 +44,12 @@
 </details>
 
 <details>
+<summary>  🔬 Other</summary>
+<br/>
+<img src="https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab" /><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" />
+</details>
+
+<details>
 <summary>  🥷 Challenges</summary>
 <br/>
 <img src="https://www.codewars.com/users/JaneMoroz/badges/micro" alt="codewars" />
