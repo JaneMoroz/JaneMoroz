@@ -58,4 +58,4 @@
 <br/>
 <br/>
 
-<a href="https://codepen.io/janemoroz" aria-label="codepan" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black" alt="codepan" /></a>
+<a href="https://codepen.io/janemoroz" target="blank"><img src="https://img.shields.io/badge/Codepan-white?style=for-the-badge&logo=codepen&logoColor=black" alt="Codepen" /></a>   <a href="https://www.frontendmentor.io/profile/JaneMoroz" target="blank"><img src="https://img.shields.io/badge/Frontend Mentor-white?style=for-the-badge&logo=frontendmentor&logoColor=black" alt="Frontend Mentor" /></a>
