@@ -58,4 +58,5 @@
 <br/>
 <br/>
 
-<a href="https://codepen.io/janemoroz" target="blank"><img src="https://img.shields.io/badge/Codepan-white?style=for-the-badge&logo=codepen&logoColor=black" alt="Codepen" /></a>   <a href="https://www.frontendmentor.io/profile/JaneMoroz" target="blank"><img src="https://img.shields.io/badge/Frontend Mentor-white?style=for-the-badge&logo=frontendmentor&logoColor=black" alt="Frontend Mentor" /></a>
+<a href="https://codepen.io/janemoroz" target="blank"><img src="https://img.shields.io/badge/Codepan-white?style=for-the-badge&logo=codepen&logoColor=black" alt="Codepen" /></a>   <a href="https://www.frontendmentor.io/profile/JaneMoroz" target="blank"><img src="https://img.shields.io/badge/Frontend Mentor-white?style=for-the-badge&logo=frontendmentor&logoColor=black" alt="Frontend Mentor" /></a>    <a href="https://www.linkedin.com/in/eugenia-ishunina/" target="blank"><img src="https://img.shields.io/badge/linkedin-white.svg?style=for-the-badge&logo=linkedin&logoColor=%230077B5" alt="Linkedin" /></a>    <a href="https://discordapp.com/users/874604659246006283/" target="blank"><img  src="https://img.shields.io/badge/Discord-white.svg?style=for-the-badge&logo=discord&logoColor=%235865F2" alt="Discord" /></a>
+
