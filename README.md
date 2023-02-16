@@ -1,8 +1,9 @@
-### Hi there 👋
-
-✨ I'm **EUGENIA**, a Web Developer, who is passionate about technology, learning new things and creating truly beautiful and efficient digital products.
-
-🌱 Right now I am building a MERN (MongoDB, Express, React, Node) stack application for the local community with the focus on Web Accessibility and Design Systems.
+<h1 align="center">Hi there! 👋  I'm EUGENIA</h1>
+<div align="center">
+  I'm a Web Developer, who is passionate about technology, learning new things and creating truly beautiful and efficient digital products. </br>
+  Right now I am building a MERN (MongoDB, Express, React, Node) stack application for the local community with the focus on Web Accessibility and Design Systems.
+</div>
+<br/>
 
 #### 🚀 Technologies I use:
 <details>
@@ -22,7 +23,7 @@
 <details>
 <summary> ⭐ Frameworks</summary>
 <br/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /><img src="https://img.shields.io/badge/redux-20232A.svg?style=for-the-badge&logo=redux&logoColor=%23593d88" alt="Redux" /><img src="https://img.shields.io/badge/React_Router-20232A?style=for-the-badge&logo=react-router&logoColor=CA4245" alt="React router" /><img src="https://img.shields.io/badge/Gatsby-20232A.svg?style=for-the-badge&logo=gatsby&logoColor=%23663399" alt="Gatsby" /><br/><img src="https://img.shields.io/badge/styled--components-20232A?style=for-the-badge&logo=styled-components&logoColor=DB7093" alt="Styled Components" /><img src="https://img.shields.io/badge/MUI-20232A.svg?style=for-the-badge&logo=mui&logoColor=%230081CB" alt="MUI" /><img src="https://img.shields.io/badge/Sass-20232A?style=for-the-badge&logo=sass&logoColor=CC6699" alt="sass" /><img src="https://img.shields.io/badge/Bootstrap-20232A?style=for-the-badge&logo=bootstrap&logoColor=563D7C" alt="Bootstrap" /><br/><img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="node.js" /><img src="https://img.shields.io/badge/Express.js-20232A?style=for-the-badge&logo=express&logoColor=white" alt="express.js" /><img src="https://img.shields.io/badge/Pug-20232A?style=for-the-badge&logo=pug&logoColor=A86454" alt="Pug.js icon" /><img src="https://img.shields.io/badge/.NET-20232A?style=for-the-badge&logo=dotnet&logoColor=512BD4" alt=".net" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /><img src="https://img.shields.io/badge/redux-20232A.svg?style=for-the-badge&logo=redux&logoColor=%23593d88" alt="Redux" /><img src="https://img.shields.io/badge/React_Router-20232A?style=for-the-badge&logo=react-router&logoColor=CA4245" alt="React router" /><img src="https://img.shields.io/badge/Gatsby-20232A.svg?style=for-the-badge&logo=gatsby&logoColor=%23663399" alt="Gatsby" /><br/><img src="https://img.shields.io/badge/styled--components-20232A?style=for-the-badge&logo=styled-components&logoColor=DB7093" alt="Styled Components" /><img src="https://img.shields.io/badge/tailwindcss-20232A.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind icon" /><img src="https://img.shields.io/badge/MUI-20232A.svg?style=for-the-badge&logo=mui&logoColor=%230081CB" alt="MUI" /><img src="https://img.shields.io/badge/Sass-20232A?style=for-the-badge&logo=sass&logoColor=CC6699" alt="sass" /><img src="https://img.shields.io/badge/Bootstrap-20232A?style=for-the-badge&logo=bootstrap&logoColor=563D7C" alt="Bootstrap" /><br/><img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="node.js" /><img src="https://img.shields.io/badge/Express.js-20232A?style=for-the-badge&logo=express&logoColor=white" alt="express.js" /><img src="https://img.shields.io/badge/Pug-20232A?style=for-the-badge&logo=pug&logoColor=A86454" alt="Pug.js icon" /><img src="https://img.shields.io/badge/.NET-20232A?style=for-the-badge&logo=dotnet&logoColor=512BD4" alt=".net" />
 </details>
 
 <details>
@@ -46,7 +47,7 @@
 <details>
 <summary>  🔬 Other</summary>
 <br/>
-<img src="https://img.shields.io/badge/docker-20232A.svg?style=for-the-badge&logo=docker&logoColor=%230db7ed" alt="docker" /><img src="https://img.shields.io/badge/kubernetes-20232A.svg?style=for-the-badge&logo=kubernetes&logoColor=%23326ce5" alt="kubernetes" /><img src="https://img.shields.io/badge/gitlab%20ci-20232A.svg?style=for-the-badge&logo=gitlab&logoColor=%23181717" alt="gitlab" /><img src="https://img.shields.io/badge/git-20232A.svg?style=for-the-badge&logo=git&logoColor=%23F05033" alt="git" /><img src="https://img.shields.io/badge/Postman-20232A?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="postman" />
+<img src="https://img.shields.io/badge/docker-20232A.svg?style=for-the-badge&logo=docker&logoColor=%230db7ed" alt="docker" /><img src="https://img.shields.io/badge/kubernetes-20232A.svg?style=for-the-badge&logo=kubernetes&logoColor=%23326ce5" alt="kubernetes" /><img src="https://img.shields.io/badge/gitlab%20ci-20232A.svg?style=for-the-badge&logo=gitlab&logoColor=FF6C37" alt="gitlab" /><img src="https://img.shields.io/badge/git-20232A.svg?style=for-the-badge&logo=git&logoColor=%23F05033" alt="git" /><img src="https://img.shields.io/badge/Postman-20232A?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="postman" />
 </details>
 
 <details>
